@@ -1,0 +1,3 @@
+my_list=["Rahul Raj","Rasin Raj","Roshith Ratheesh","Sidharth Mattammal","Sreeraj K"]
+print(my_list[0])
+print(my_list[-1])
